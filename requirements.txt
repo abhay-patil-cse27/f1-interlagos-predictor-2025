@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+jupyterlab
+xgboost
+lightgbm
+fastf1 #may fail sometimes due to dependency issues from fastf1 api routes
+#it is recommended to use the manually scraoed data

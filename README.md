@@ -182,5 +182,5 @@ Not Needed.
 
 **Abhay Patil**  
 B.Tech Computer Science & Engineering  
-KIT’s College of Engineering (Autonomous), Kolhapur  
+KIT’s College of Engineering (Empowered Autonomous), Kolhapur  
 GitHub: [@abhay-patil-cse27](https://github.com/abhay-patil-cse27)
